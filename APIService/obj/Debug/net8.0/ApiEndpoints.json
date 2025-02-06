@@ -1,0 +1,80 @@
+[
+  {
+    "ContainingType": "WebAPIs.Controllers.ReposController",
+    "Method": "GetCSharpRepositories",
+    "RelativePath": "api/repos/csharp-repos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIs.Controllers.ReposController",
+    "Method": "GetPortfolio",
+    "RelativePath": "api/repos/portfolio",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIs.Controllers.ReposController",
+    "Method": "SearchRepositories",
+    "RelativePath": "api/repos/search",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "repoName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "language",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIs.Controllers.UserController",
+    "Method": "GetUserFollowers",
+    "RelativePath": "api/users/{userName}/followers",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebAPIs.Controllers.UserController",
+    "Method": "GetUserPublicRepositories",
+    "RelativePath": "api/users/{userName}/public-repos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "userName",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

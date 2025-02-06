@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{301437D6-DC93-470E-871C-F29C1CE4E7E0}|APIService\\GitHub.API.csproj|C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301437D6-DC93-470E-871C-F29C1CE4E7E0}|APIService\\GitHub.API.csproj|solutionrelative:apiservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301437D6-DC93-470E-871C-F29C1CE4E7E0}|APIService\\GitHub.API.csproj|c:\\users\\\u05D0\u05E1\u05EA\u05E8\\desktop\\cv site\\service\\apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{301437D6-DC93-470E-871C-F29C1CE4E7E0}|APIService\\GitHub.API.csproj|solutionrelative:apiservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\AppData\\Roaming\\Microsoft\\UserSecrets\\ebc7dd53-635e-4960-aacd-55ccd32276bd\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77664CC7-5BA7-438E-892F-0069E83E53AA}|GitHubIntegration\\GitHubIntegration.csproj|c:\\users\\\u05D0\u05E1\u05EA\u05E8\\desktop\\cv site\\service\\githubintegration\\githubintegrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77664CC7-5BA7-438E-892F-0069E83E53AA}|GitHubIntegration\\GitHubIntegration.csproj|solutionrelative:githubintegration\\githubintegrationoptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77664CC7-5BA7-438E-892F-0069E83E53AA}|GitHubIntegration\\GitHubIntegration.csproj|c:\\users\\\u05D0\u05E1\u05EA\u05E8\\desktop\\cv site\\service\\githubintegration\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77664CC7-5BA7-438E-892F-0069E83E53AA}|GitHubIntegration\\GitHubIntegration.csproj|solutionrelative:githubintegration\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77664CC7-5BA7-438E-892F-0069E83E53AA}|GitHubIntegration\\GitHubIntegration.csproj|c:\\users\\\u05D0\u05E1\u05EA\u05E8\\desktop\\cv site\\service\\githubintegration\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77664CC7-5BA7-438E-892F-0069E83E53AA}|GitHubIntegration\\GitHubIntegration.csproj|solutionrelative:githubintegration\\githubservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301437D6-DC93-470E-871C-F29C1CE4E7E0}|APIService\\GitHub.API.csproj|C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\apiservice\\controllers\\reposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301437D6-DC93-470E-871C-F29C1CE4E7E0}|APIService\\GitHub.API.csproj|solutionrelative:apiservice\\controllers\\reposcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{301437D6-DC93-470E-871C-F29C1CE4E7E0}|APIService\\GitHub.API.csproj|C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\apiservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{301437D6-DC93-470E-871C-F29C1CE4E7E0}|APIService\\GitHub.API.csproj|solutionrelative:apiservice\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GitHubService.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\GitHubIntegration\\GitHubService.cs",
+              "RelativeDocumentMoniker": "GitHubIntegration\\GitHubService.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\GitHubIntegration\\GitHubService.cs",
+              "RelativeToolTip": "GitHubIntegration\\GitHubService.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:32:01.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GitHubIntegrationOptions.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\GitHubIntegration\\GitHubIntegrationOptions.cs",
+              "RelativeDocumentMoniker": "GitHubIntegration\\GitHubIntegrationOptions.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\GitHubIntegration\\GitHubIntegrationOptions.cs",
+              "RelativeToolTip": "GitHubIntegration\\GitHubIntegrationOptions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:31:03.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\GitHubIntegration\\Extensions.cs",
+              "RelativeDocumentMoniker": "GitHubIntegration\\Extensions.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\GitHubIntegration\\Extensions.cs",
+              "RelativeToolTip": "GitHubIntegration\\Extensions.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T17:06:55.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\AppData\\Roaming\\Microsoft\\UserSecrets\\ebc7dd53-635e-4960-aacd-55ccd32276bd\\secrets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ebc7dd53-635e-4960-aacd-55ccd32276bd\\secrets.json",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\AppData\\Roaming\\Microsoft\\UserSecrets\\ebc7dd53-635e-4960-aacd-55ccd32276bd\\secrets.json",
+              "RelativeToolTip": "..\\..\\..\\AppData\\Roaming\\Microsoft\\UserSecrets\\ebc7dd53-635e-4960-aacd-55ccd32276bd\\secrets.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T00:30:33.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\APIService\\Program.cs",
+              "RelativeDocumentMoniker": "APIService\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\APIService\\Program.cs",
+              "RelativeToolTip": "APIService\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAYwAkAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:07:30.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\APIService\\appsettings.json",
+              "RelativeDocumentMoniker": "APIService\\appsettings.json",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\APIService\\appsettings.json",
+              "RelativeToolTip": "APIService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-06T00:03:42.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ReposController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\APIService\\Controllers\\ReposController.cs",
+              "RelativeDocumentMoniker": "APIService\\Controllers\\ReposController.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\APIService\\Controllers\\ReposController.cs",
+              "RelativeToolTip": "APIService\\Controllers\\ReposController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:03:38.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\APIService\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "APIService\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\\u05D0\u05E1\u05EA\u05E8\\Desktop\\CV Site\\Service\\APIService\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "APIService\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-06T00:03:36.4Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

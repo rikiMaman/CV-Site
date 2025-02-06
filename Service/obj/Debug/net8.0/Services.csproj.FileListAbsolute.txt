@@ -1,0 +1,12 @@
+C:\Users\אסתר\Desktop\CV Site\Service\Service\bin\Debug\net8.0\Services.deps.json
+C:\Users\אסתר\Desktop\CV Site\Service\Service\bin\Debug\net8.0\Services.dll
+C:\Users\אסתר\Desktop\CV Site\Service\Service\bin\Debug\net8.0\Services.pdb
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\Services.csproj.AssemblyReference.cache
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\Services.AssemblyInfoInputs.cache
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\Services.AssemblyInfo.cs
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\Services.csproj.CoreCompileInputs.cache
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\Services.dll
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\refint\Services.dll
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\Services.pdb
+C:\Users\אסתר\Desktop\CV Site\Service\Service\obj\Debug\net8.0\ref\Services.dll

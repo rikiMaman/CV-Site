@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "BwWzdhy40ury9F67WfL1e+rHeCa0cVD8nudX4CVqbHSzfW0TS5Opc4cKy6czl8uIpyMARQxTwSreFGtaPqCRww==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\אסתר\\Desktop\\CV Site\\Service\\GitHubIntegration\\GitHubIntegration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\אסתר\\.nuget\\packages\\microsoft.extensions.caching.abstractions\\9.0.1\\microsoft.extensions.caching.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\אסתר\\.nuget\\packages\\microsoft.extensions.caching.memory\\9.0.1\\microsoft.extensions.caching.memory.9.0.1.nupkg.sha512",
+    "C:\\Users\\אסתר\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\9.0.1\\microsoft.extensions.dependencyinjection.9.0.1.nupkg.sha512",
+    "C:\\Users\\אסתר\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\9.0.1\\microsoft.extensions.dependencyinjection.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\אסתר\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\9.0.1\\microsoft.extensions.logging.abstractions.9.0.1.nupkg.sha512",
+    "C:\\Users\\אסתר\\.nuget\\packages\\microsoft.extensions.options\\9.0.1\\microsoft.extensions.options.9.0.1.nupkg.sha512",
+    "C:\\Users\\אסתר\\.nuget\\packages\\microsoft.extensions.primitives\\9.0.1\\microsoft.extensions.primitives.9.0.1.nupkg.sha512",
+    "C:\\Users\\אסתר\\.nuget\\packages\\octokit\\14.0.0\\octokit.14.0.0.nupkg.sha512",
+    "C:\\Users\\אסתר\\.nuget\\packages\\system.diagnostics.diagnosticsource\\9.0.1\\system.diagnostics.diagnosticsource.9.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

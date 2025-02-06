@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "IEtZWmDCmMVITjS3aux0H6gn+fHhTLiBtVK36Pja14ZSnb2QessSJ+1lqzGEDWuLKzoQnwqr0w0b6XK3s414pQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\אסתר\\Desktop\\CV Site\\Service\\Service\\GitHubIntegration.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\אסתר\\.nuget\\packages\\octokit\\13.0.1\\octokit.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
